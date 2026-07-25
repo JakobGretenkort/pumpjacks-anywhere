@@ -1,0 +1,8 @@
+{
+  "name": "pumpjacks-anywhere",
+  "version": "0.1.0",
+  "title": "Pumpjacks Anywhere",
+  "author": "KalerionTheEngineer",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"]
+}
